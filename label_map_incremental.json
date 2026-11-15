@@ -1,0 +1,16 @@
+{
+  "mapping": {
+    "BENIGN": 0,
+    "DDoS": 1,
+    "DoS GoldenEye": 2,
+    "DoS Slowhttptest": 3,
+    "FTP-Patator": 4,
+    "Heartbleed": 5,
+    "Infiltration": 6,
+    "PortScan": 7,
+    "SSH-Patator": 8,
+    "Web Attack \u2013 Brute Force": 9,
+    "Web Attack \u2013 XSS": 10
+  },
+  "true_source": {}
+}
